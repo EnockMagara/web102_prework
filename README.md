@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Video Walkthrough](assets/sea_monster.mov)
+[Video Walkthrough](https://github.com/EnockMagara/web102_prework/raw/main/assets/sea_monster.mp4)
 
 Video created with QuickTime Player 
 
